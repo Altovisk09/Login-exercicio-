@@ -1,4 +1,4 @@
-**# Exercicio CSS
+# Exercicio CSS
 
 O objetivo desse projeto é práticar os conceitos basicos do css.
 
